@@ -72,7 +72,7 @@ module.exports = HomeController
 
 ## Extend Rules
 
-- app.js
+- {app_root}/app.js
 
 ```js
 app.validator.addRule('object', (rule, value) => {
